@@ -1,2 +1,3 @@
 # recipeblog-odin
-Odin project recipe blog
+project #1: recipe blog
+practicing HTML, using git, and googling stupid questions
